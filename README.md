@@ -1,7 +1,7 @@
 ![Header](./github-header.png)
 ## About Me
 
-👋 Hi there! I'm Jaime, a recent Computer Science graduate with a deep passion for programming and continuous learning. I thrive on solving complex problems and am constantly working on various projects to sharpen my skills and explore new technologies.
+👋 Hi there! I'm Jaime, a Computer Science graduate with a deep passion for programming and continuous learning. I thrive on solving complex problems and am constantly working on various projects to sharpen my skills and explore new technologies.
 
 ### 🚀 What I Do
 
