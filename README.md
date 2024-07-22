@@ -9,7 +9,6 @@
 - **Android Programming:** In the last 2 years, I have been getting deep into Android programming. I've built and contributed to several Android applications, honing my skills in mobile app development. I've found in Android programming lots of great challenges that make me want to explore this world professionally.
 - **Projects:** My GitHub repositories showcase some of the main projects I have worked on. I believe in learning by doing, and each project is an opportunity to explore new technologies and improve my coding skills.
 - **Learning:** I'm a lifelong learner who is always looking for new challenges. Whether it's a new programming language, framework, or technology, I love diving in and learning all I can. Currently, I'm exploring CI/CD, Testing, Jetpack Compose Development and Linux ricing.
-- 
 ### 🌟 Highlights
 
 - **Projects:** 
