@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./github-header-banner.png)
 ## About Me
 
 👋 Hi there! I'm Jaime, a Software engineer with a deep passion for programming and continuous learning. I thrive on solving complex problems and am constantly working on various projects to sharpen my skills and explore new technologies.
