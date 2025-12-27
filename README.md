@@ -28,7 +28,7 @@
 
 ### 📫 Get in Touch
 
-- **Email:** [Contact me](mailto:github.unleash418@passinbox.com)
+- **Email:** [Contact me](mailto:jaimevazquezmartin@protonmail.com)
 - **LinkedIn:** [Link to my profile](https://www.linkedin.com/in/jaime-pablo-v%C3%A1zquez-mart%C3%ADn-a4a907255)
 
 Feel free to explore my repositories and connect with me. Let's build something amazing together!
