@@ -18,7 +18,7 @@ Hi there! I'm Jaime, a Software engineer with a deep passion for programming and
   - **Linux ricing:** When a few years ago, I decided to go down this rabbit hole, I didn't expect it taking so much time to build, so much so, that I use my riced setup as a daily personal and professional driver, feel free to explore it through my [dotfiles](https://github.com/Jaimevzkz/dotfiles)!
   - **Home Labbing:** Another rabbit hole I decided to dive deep into. After deciding I wanted to create an environment to learn new stuff, I created a little home lab and the snow ball kept growing until I finished up becoming the new sys admin for my family. The public part of the services running in my homelab can be found [here](https://github.com/Jaimevzkz/homelab-services).
 - **Skills:**
-  - **Languages:** Kotlin, Java, Rust, C, C++, Lua.
+  - **Languages:** Kotlin, Java, Rust, Go, Lua.
   - **Tools:** Git, Docker, Linux.
 ### Get in Touch
 
