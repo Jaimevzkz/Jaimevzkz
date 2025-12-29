@@ -14,7 +14,7 @@ Hi there! I'm Jaime, a software engineer with a deep passion for programming and
 - **Android Projects:**
   - **BeePadel:** My most recent side project, a Pádel tracker app in which I have made use of everything learned in my years as an android engineer. The idea behind this project was creating a really simple app (feature wise), and applying all the engineering to make a real world app to it, so that it serves as a showcase of my skills (and a fun way to track you matches). Feel free to [explore it](https://github.com/Jaimevzkz/BeePadel) and/or [download it in the Google Play store](https://play.google.com/store/apps/details?id=com.vzkz.beepadel)!
   - **Salamandra:** A colaborative fully open source project, consisting of an Android application, written in kotlin, using Jetpack Compose and a dedicated serverless backend written in rust using AWS cloud services to host it.
-- **Side hobbies:**
+- **Hobbies:**
   - **Linux ricing:** When a few years ago, I decided to go down this rabbit hole, I didn't expect it taking so much time to build, so much so, that I use my riced setup as a daily personal and professional driver, feel free to explore it through my [dotfiles](https://github.com/Jaimevzkz/dotfiles)!
   - **Home Labbing:** Another rabbit hole I decided to dive deep into. After deciding I wanted to create an environment to learn new stuff, I created a little home lab and the snow ball kept growing until I finished up becoming the new sys admin for my family. The public part of the services running in my homelab can be found [here](https://github.com/Jaimevzkz/homelab-services).
 - **Skills:**
